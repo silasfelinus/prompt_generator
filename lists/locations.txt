@@ -1,0 +1,141 @@
+Sun
+Moon
+Mercury
+Venus
+Mars
+Ceres 
+Jupiter
+Saturn
+Uranus
+Neptune
+Pluto
+Pallas
+Juno
+Vesta 
+Chiron
+Amsterdam
+Ankara
+Athens
+Atlantic City
+Baltimore
+Bangkok
+Beijing
+Berlin
+Berne
+Brussels
+Budapest
+Buenos Aires
+Cairo
+Canberra
+Cannes
+Cape Town
+Chicago
+Cologne
+Copenhagen
+Damascus
+Delhi
+Dubai City
+Dublin
+Florence
+Geneve
+Hague
+Ha Noi
+Havana
+Helsinki
+Hong Kong
+Honolulu
+Istanbul
+Jakarta
+Jerusalem
+Kansas City
+Kathmandu
+Kuala Lumpur
+Lisbon
+London
+Los Angeles
+Luxembourg
+Madrid
+Manila
+Melbourne
+Mexico City
+Milan
+Montreal
+Moscow
+Mumbai
+Munich
+Nazareth
+New York
+Nice
+Osaka
+Ottawa
+Oslo
+Paris
+Philadelphia
+Phnom Penh
+Prague
+Quito
+Reykjavik
+Rio De Janiero
+San Francisco
+Santa Fe
+Santiago
+Sao Paulo
+Shanghai
+Singapore City
+Stokholm
+Saint Petersburg
+Seoul
+Sydney
+Taipei
+Tokyo
+Toronto
+Venice
+Vienna
+Washington
+Zurich
+Hogwarts
+Willy Wonka's Factory
+The Emerald City
+Oz
+Narnia
+The Star Wars Galaxy
+Gotham City
+Metropolis
+Xavier's Academy
+Asgard
+Hell
+The Beach
+School
+Home
+Camp
+Neverland
+A Pirate Ship
+The Shire
+Hogsmeade
+Malgudi
+Rivendell
+The Gatsby Mansion
+Swallow Falls
+King's Landing
+South Park
+Eternia
+Pandora
+Lilliput
+International Space Station
+Outer Space
+Alpha Centari
+Pemberly
+Grand Canyon
+Yosemite
+Stonehenge
+Easter Island
+North Pole
+Jurassic Park
+The Internet
+Pokemon Stadium
+Bikini Bottom
+Toyland
+The Jungle
+Springfield
+An Average american Town
+A Big Top
